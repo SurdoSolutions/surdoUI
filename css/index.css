@@ -1,0 +1,35 @@
+body{
+    background-color: grey;
+}
+
+.col {
+    border-style: solid;
+    border-color: blue;
+    margin: 2px;
+}
+
+.subject {
+    max-width: 125px;
+}
+
+.container:first-of-type {
+    border-style: solid;
+    border-color: black;
+}
+.sub-btn{
+    border-style: solid;
+    border-color: black;
+}
+
+.card{
+    background-color: lightblue;
+}
+
+.row{
+    background-color: lightgrey;
+}
+
+.form-control{
+    background-color: ghostwhite;
+}
+
